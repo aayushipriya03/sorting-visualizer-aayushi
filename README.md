@@ -5,7 +5,7 @@ The concept of visualizing algorithms lets us understand algorithms in a much be
 This project is built using ReactJS.
 It includes visualization of few classic sorting algorithms such as: Bubble Sort, Selection Sort and Insertion Sort.
 
-Play around with it: [app]()
+Play around with it: [app](https://sorting-algo-visualizer-aayush.herokuapp.com/)
 
 # Components
 
